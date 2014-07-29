@@ -1,4 +1,4 @@
-Freleap-X-peojects
+Freleap-X-projects
 ==================
 
-Freleap-X-peojects
+Freleap-X-projects
