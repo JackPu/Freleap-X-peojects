@@ -1,4 +1,4 @@
-```javascript
+// 20141211
 window.requestAnimFrame = (function(){
   return  window.requestAnimationFrame ||
     window.webkitRequestAnimationFrame ||
@@ -18,4 +18,4 @@ window.cancelRequestAnimFrame = ( function() {
     window.msCancelRequestAnimationFrame     ||
     clearTimeout
 } )();
-```
+
