@@ -4,6 +4,6 @@
 
 //test chinese characters 
 var str = '我是说中文的';
-if(/[\u4E00-\u9FA5]/g.test(str)){
+if(/[\u4E00-\u9FA5]+/g.test(str)){
   return true;
 }
